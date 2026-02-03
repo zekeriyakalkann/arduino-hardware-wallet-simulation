@@ -22,5 +22,9 @@ Arduino-based hardware wallet simulation with PIN, 2FA (TOTP), IR keypad input, 
 ## Video
 - Link: (https://www.youtube.com/watch?v=KcW8VPC15Lg)
 
+## Screenshots
+
+![Arduino Circuit Photo 1](assets/Arduino%20Circuit%20Photo%201.jpg)
+![Arduino Circuit Photo 2](assets/Arduino%20Circuit%20Photo%202.jpg)
 
 
